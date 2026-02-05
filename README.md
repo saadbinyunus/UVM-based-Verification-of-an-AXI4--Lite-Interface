@@ -82,13 +82,13 @@ Contributions to this project are highly encouraged and appreciated! Whether it'
 
 
 
-
+##
 **DATE: 5th February, 2026**
 
 
-**Project: UVM-based Verification of an AXI4(-Lite) Interface with Assertions, Coverage, and Error Injection**
+**PROJECT: UVM-based Verification of an AXI4(-Lite) Interface with Assertions, Coverage, and Error Injection**
 
 My Reference Paper:
-H. Sangani and U. Mehta, "UVM based Verification of Read and Write Transactions in AXI4-Lite Protocol," 2022 IEEE Region 10 Symposium (TENSYMP), Mumbai, India, 2022, pp. 1-5, doi: 10.1109/TENSYMP54529.2022.9864552. keywords: {Performance evaluation;Protocols;Codes;Simulation;Intellectual property;Shift registers;System-on-chip;AXI;UVM;Verification;VCS;System-on-chip(SoC)},
-
+_H. Sangani and U. Mehta, "UVM based Verification of Read and Write Transactions in AXI4-Lite Protocol," 2022 IEEE Region 10 Symposium (TENSYMP), Mumbai, India, 2022, pp. 1-5, doi: 10.1109/TENSYMP54529.2022.9864552. keywords: {Performance evaluation;Protocols;Codes;Simulation;Intellectual property;Shift registers;System-on-chip;AXI;UVM;Verification;VCS;System-on-chip(SoC)},
+_
 
