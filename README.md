@@ -92,3 +92,4 @@ My Reference Paper:
 _H. Sangani and U. Mehta, "UVM based Verification of Read and Write Transactions in AXI4-Lite Protocol," 2022 IEEE Region 10 Symposium (TENSYMP), Mumbai, India, 2022, pp. 1-5, doi: 10.1109/TENSYMP54529.2022.9864552. keywords: {Performance evaluation;Protocols;Codes;Simulation;Intellectual property;Shift registers;System-on-chip;AXI;UVM;Verification;VCS;System-on-chip(SoC)},
 _
 
+<img width="823" height="1008" alt="image" src="https://github.com/user-attachments/assets/1791094d-31ec-4f89-8c96-420ba7b8fd2a" />
