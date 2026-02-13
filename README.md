@@ -1,3 +1,8 @@
+# This repo will be updated once all my work is complete. Currently use WSL to work on this project and perform the DV.
+# The next update will be the UVM
+
+
+
 # AXI4-Lite Interface
 ## Introduction to AXI4-Lite
 Advanced eXtensible Interface 4 (AXI4) is a family of buses defined as part of the fourth generation of the ARM Advanced Microcontroler Bus Architectrue (AMBA) standard. AXI was first introduced with the third generation of AMBA, as AXI3, in 1996.
