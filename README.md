@@ -1,4 +1,4 @@
-# This repo will be updated once all my work is complete. Currently use WSL to work on this project and perform the DV.
+# This repo will be updated once all my work is complete. Currently using WSL to work on this project and perform the DV.
 # The next update will be the UVM
 
 
